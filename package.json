@@ -1,12 +1,12 @@
 {
-  "name": "js-kata-boilerplate",
+  "name": "TODO: js-kata-boilerplate",
   "version": "0.0.0",
   "description": "TODO: change description",
-  "main": "rename.js",
+  "main": "TODO: rename.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Joao Stein <joaosteing@gmail.com> (http://jstein.me/)",
+  "author": "TODO: Joao Stein <joaosteing@gmail.com> (http://jstein.me/)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^2.2.0",
