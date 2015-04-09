@@ -8,7 +8,7 @@ This is a boilerplate repository with basic files to start a Coding Dojo Section
 * [JSHint](http://jshint.com/)
 
 ## Initial Setup
-1. Clone the repository on your machine with `git clone <url>`
+1. Clone the repository on your machine with `git clone git@github.com:joaostein/kata-boilerplate.git`
 2. Rename the file `rename.js` to whatever name is appropriate
 3. Update the information on `package.json` file
 4. Run `npm install` to install dev dependencies
@@ -32,4 +32,4 @@ To watch files for changes:
 > Just write some code, save the file and see the automatically response (tests and linting) on terminal tabs.
 
 ## License
-[MIT License](link) Copyright © 2015 Joao Stein
+[MIT License](https://github.com/joaostein/kata-boilerplate/blob/master/LICENSE.md) Copyright © 2015 Joao Stein
