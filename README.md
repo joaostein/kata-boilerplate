@@ -20,8 +20,14 @@ After renaming the `rename.js` file, make sure to [exports your module](http://s
 
 Run each command in individual terminal tabs:
 
-1. `gulp test` -- to watch `spec.js` file
-2. `gulp lint` -- to watch all `*.js` files
+* `gulp` -- to run the spec and lint tasks *once*
+* `gulp runSpec` -- to run the spec task *once*
+* `gulp jshint` -- to run the lint task *once*
+
+To watch files for changes:
+
+* `gulp test` -- to watch `spec.js` file and run `runSpec` task
+* `gulp lint` -- to watch all `*.js` files and run `jshint` task
 
 > Just write some code, save the file and see the automatically response (tests and linting) on terminal tabs.
 
