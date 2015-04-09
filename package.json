@@ -1,0 +1,11 @@
+{
+  "name": "js-kata-boilerplate",
+  "version": "0.0.0",
+  "description": "TODO: change description",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Joao Stein <joaosteing@gmail.com> (http://jstein.me/)",
+  "license": "MIT"
+}
