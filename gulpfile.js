@@ -34,7 +34,7 @@ gulp.task('lint', function () {
 gulp.task('runSpec', function () {
  clear();
  return gulp.src('./spec.js', { read: true })
-   .pipe(mocha({ reporter: 'nyan' } ));
+   .pipe(mocha({ reporter: 'list' } ));
 });
 // Watch for file changes
 gulp.task('test', function () {
